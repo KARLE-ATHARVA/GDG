@@ -4,6 +4,10 @@ This Chrome Extension helps content creators (e.g., YouTubers, OTT platforms lik
 
 Built using Google Cloud services like Vertex AI, Google Cloud Functions, and Google Video Intelligence, and developed using Google IDX for rapid iteration.
 
+View Prototype here : https://gdg-roan.vercel.app/
+
+View Demo Video here : https://drive.google.com/file/d/11w_xtIwWtdtc-JNCFaZCLzr2gwlpcvD2/view?usp=sharing
+
 ---
 
 ## 🚀 Features
