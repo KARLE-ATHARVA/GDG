@@ -98,6 +98,16 @@ Built using Google Cloud services like Vertex AI, Google Cloud Functions, and Go
 | Atharva Karle       |
 
 ---
+## 🛠️ Getting Started
+
+Run the following commands in your terminal to set up and start the project:
+
+git init
+git clone <repository-url>
+cd <repository-folder>
+npm install --legacy-peer-deps
+npm run build
+npm run start
 
 ## 💡 Inspiration
 
